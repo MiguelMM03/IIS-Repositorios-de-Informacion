@@ -1,0 +1,7 @@
+UO287687
+Miguel M�ndez Murias
+
+Ejercicio 2:
+* Generaci�n de certificados
+* Listado de mec�nicos que han asistido a formaci�n por tipo de veh�culo
+* Gesti�n de �rdenes de trabajo excepto �Ver detalle de orden de trabajo�

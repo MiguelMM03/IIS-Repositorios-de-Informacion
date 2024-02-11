@@ -1,0 +1,6 @@
+UO287687
+Miguel Méndez Murias
+Ejercicio 2:
+* Generación de certificados
+* Listado de mecánicos que han asistido a formación por tipo de vehículo
+* Gestión de órdenes de trabajo excepto “Ver detalle de orden de trabajo”
